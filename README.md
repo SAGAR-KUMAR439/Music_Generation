@@ -1,6 +1,6 @@
-﻿# CodeAlpha Music Generation
+﻿# Music Generation
 
-A Python-based music generation project developed as part of the **CodeAlpha Artificial Intelligence Internship**.
+A Python-based music generation project developed as part of the **Artificial Intelligence Internship**.
 
 This project demonstrates MIDI music processing using **music21**, numerical data preprocessing using **NumPy**, and a prototype approach for generating new MIDI sequences.
 
@@ -18,7 +18,7 @@ The objective of this project is to explore the process of:
 * Generating a new MIDI file
 * Loading and verifying the generated MIDI output
 
-The project was developed as part of **Task 3 — Music Generation** of the CodeAlpha AI Internship.
+The project was developed as part of **Task 3 — Music Generation** of the AI Internship.
 
 ---
 
@@ -274,7 +274,7 @@ Possible improvements include:
 
 This project was developed for:
 
-**CodeAlpha Artificial Intelligence Internship**
+**Artificial Intelligence Internship**
 
 Task:
 
@@ -284,7 +284,7 @@ Task:
 
 ## 👨‍💻 Author
 
-**SAGAR KUMAR**
+**SAGAR**
 
 GitHub:
 
